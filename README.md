@@ -1,4 +1,4 @@
-# bash-error-handling-sample
+# bash-error-trap-sample
 
 ## Usage
 ```text
